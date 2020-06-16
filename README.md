@@ -12,4 +12,4 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
 # *Contact* 
 
 email: contact@userluke.com
-site: [Link]https://userluke.com
+site: https://userluke.com
