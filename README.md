@@ -6,7 +6,11 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
 ## Hardware List:
 * Dell PowerEdge R630
 > 2x 2.60Ghz E5-2640v3 8 Core Processors  
-> 64GB PC4-2133P RAM
+> 64GB PC4-2133P RAM  
+>  
+>  
+> H330 Mini RAID Controller  
+
 
 ## Software List:
 
