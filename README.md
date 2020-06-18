@@ -4,7 +4,7 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
 
 
 ## Hardware List:
-
+> Dell PowerEdge R630
 
 ## Software List:
 
