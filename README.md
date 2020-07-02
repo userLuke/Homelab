@@ -8,14 +8,14 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
   >2x Xeon E5-2640 2.60Ghz 8 Core Processors  
   >64GB PC4-2133P RAM  
   >  
-  >iDRAC 7  
+  >  
   >H330 Mini RAID Controller  
   >iDRAC8 Express  
 
 
 
 ## Software List:
-
+* VMWare's ESXi Bare Metal Hypervisor
 
 # *Contact* 
 
