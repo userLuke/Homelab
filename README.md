@@ -16,6 +16,7 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
 
 ## Software List:
 * VMWare's ESXi Bare Metal Hypervisor
+  >Windows Server 2019
 
 # *Contact* 
 
