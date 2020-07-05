@@ -11,7 +11,7 @@
 - Plug in your bootable media and power on your machine, depending on your boot settings you may need to configure BIOS to assist you in booting from USB/CD etc.
 - Once successfully booted into the ESXi Installer, you will see something like this  
 ![image](https://user-images.githubusercontent.com/54081466/86535089-bd219080-beab-11ea-8ab2-7ce3e3273bc4.png)  
-- Then, you must accept the EULA or you cannot cont
+- Then, you must accept the EULA or you cannot continue the installation
 - Press continue and you will be prompted as to where you would like to install, as you can see below I chose my USB drive as I will be booting from that, normally
 ![image](https://user-images.githubusercontent.com/54081466/86535210-ab8cb880-beac-11ea-9927-44e208dc2573.png)
 - On the next couple screens you will choose a keyboard layout, root password (make sure this is a strong password and if you cannot remember it then you may write it down, however, I recommend you use a password manager, such as [BitWarden](https://bitwarden.com/)
