@@ -11,6 +11,7 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
   >  
   >H330 Mini RAID Controller  
   >iDRAC8 Express  
+ * Raspberry Pi 3 Model B (2)
 
 
 
