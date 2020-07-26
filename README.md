@@ -22,7 +22,8 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
 * VMWare's ESXi Bare Metal Hypervisor
   >Windows Server 2019
 * Raspbian OS  
-  >Pi-Hole DNS Sink Hole  
+  >Pi-Hole DNS Sink Hole
+* OpenVPN Access Server built on Ubuntu 18.04 LTS x64
   
 # *Contact* 
 
