@@ -25,6 +25,9 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
 * Raspbian OS  
   >Pi-Hole DNS Sink Hole
 * OpenVPN Access Server built on Ubuntu 18.04 LTS x64
+* Visual Studio Code
+  >PowerShell Scripting
+  >Java Development
 
   
 # *Contact* 
