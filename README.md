@@ -20,7 +20,8 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
 
 ## Software List:
 * VMWare's ESXi Bare Metal Hypervisor
-  >Windows Server 2019 (2)
+  >Windows Server 2019 (2) AD Controllers
+  >Windows Server 2016
   >Cent8
 * Raspbian OS  
   >Pi-Hole DNS Sink Hole
