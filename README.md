@@ -9,7 +9,7 @@ Hello, welcome to the documentation of my personal homelab. In here you will fin
   >64GB PC4-2133P RAM  
   >  
   >  
-  >H330 Mini RAID Controller  
+  >H330 RAID Controller  
   >iDRAC8 Express  
  * Raspberry Pi 3 Model B (2)
  * TP-Link AC1200 Router
