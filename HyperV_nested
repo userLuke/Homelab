@@ -1,1 +1,2 @@
 
+vNICs do not like being nested. Working to get Internet access on the VMs inside Hyper-V
